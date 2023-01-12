@@ -1,0 +1,23 @@
+{
+  "name": "cta-update",
+  "version": "1.0.0",
+  "description": "CTA Tacker web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IsaiahBouromphongsa/CTA-Update.git"
+  },
+  "author": "Isaiah Bouromphongsa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsaiahBouromphongsa/CTA-Update/issues"
+  },
+  "homepage": "https://github.com/IsaiahBouromphongsa/CTA-Update#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
